@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assiment3-Group10/1.0.0": {
+        "runtime": {
+          "Assiment3-Group10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assiment3-Group10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
