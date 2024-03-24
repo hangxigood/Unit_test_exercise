@@ -59,5 +59,8 @@ namespace Assignment_3_skeleton
         //parameter data Data object to search for.
         //return True if element exists with value.
         bool Contains(Object data);
+
+        // Reverses the order of the nodes in the linked list      
+        void Reverse();
     }
 }
